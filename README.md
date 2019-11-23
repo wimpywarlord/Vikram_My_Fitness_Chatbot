@@ -57,3 +57,8 @@ Nothin, just a browser and an internet connection would be great.
 * My gym buddies had inspired me to give life to this idea.
 * Thanks to my parents for providing all the resources with which I could learn all that was necessary. 
 
+## I'm a social animal!
+
+So connect with me and share your experience.
+
+<a href="https://www.facebook.com/kshitij.dhyani.3" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/kshitijdhyani/" target="_blank"><img height="32" width="32" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/collection/build/ionicons/svg/logo-linkedin.svg" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/kshitij_dhyani/?hl=en" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a>
