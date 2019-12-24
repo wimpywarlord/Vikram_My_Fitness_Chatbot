@@ -57,6 +57,7 @@ Nothin, just a browser and an internet connection would be great.
 * Hat tip to anyone whose code was used
 * My gym buddies had inspired me to give life to this idea.
 * Thanks to my parents for providing all the resources with which I could learn all that was necessary. 
+A newer version is under development , viz vikram 2.0 , soon to to be published. 
 
 ## I'm a social animal!
 
