@@ -5,7 +5,7 @@
 [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://vikramgithubio.sameerkapil7111999.now.sh/#vikram)
 
 
-So, everyone wants to fit and many often end up paying huge amounts to yearly subscriptions at the gym and end up eating a tub of that Choco lush ice-cream at cocazy. This is often because these fitness aspirants/consumers of this fitness industry are often misguided and uninformed, which leads to lower morale and sense of defeat in the long run.
+So, everyone wants to be fit and many often end up paying huge amounts to yearly subscriptions at the gym and end up eating a tub of that Choco lush ice-cream at cocazy. This is often because these fitness aspirants/consumers of this fitness industry are often misguided and uninformed, which leads to lower morale and sense of defeat in the long run.
 Scientific research revealed that more people are injuring themselves at the gym than those who are building muscles, the major reason being lack of knowledge of proper form and techniques and the right kind of exercise.
 Another study revealed that around 78% of gym trainers lack formal education and proper qualification and hence are not credible enough to provide proper guidance in the field called fitness.
 Mentorship is the matrix of all learning but can we call up our instructor at 2 am at the night and ask the proper form of the deadlift? Certainly no.
