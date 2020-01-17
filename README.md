@@ -12,6 +12,8 @@ Mentorship is the matrix of all learning but can we call up our instructor at 2 
 Who is to help us, amongst such dismay? Fear not because we have Vikram “YOUR GYM BUDDY “at a tap distance away to get rid of all your fitness queries.
 Not only a query solves, but VIKRAM is also your gym partner, there to guide-help-motivate u at every step.
 
+![alt-text](https://github.com/wimpywarlord/Vikram_My_Fitness_Chatbot/blob/master/donut.gif)
+
 Link: https://lnkd.in/fcMdkpN
 
 ## Getting Started
