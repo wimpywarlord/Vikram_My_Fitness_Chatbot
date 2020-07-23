@@ -1,3 +1,6 @@
+# Kshitij Dhyani
+![My Banner](/banner_wimpy.jfif)
+
 # Vikram Chatbot
 
 [![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://vikramgithubio.sameerkapil7111999.now.sh/#vikram) 
