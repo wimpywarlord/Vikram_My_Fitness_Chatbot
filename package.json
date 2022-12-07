@@ -19,9 +19,9 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "dotenv": "^2.0.0",
-    "express": "^4.16.1",
+    "express": "^4.18.2",
     "watson-developer-cloud": "^3.0.7"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "istanbul": "^0.4.2",
     "mocha": "^2.4.5",
     "phantomjs-prebuilt": "^2.1.15",
-    "supertest": "^1.2.0"
+    "supertest": "^6.3.2"
   },
   "engines": {
     "node": ">= 6.9.x",
